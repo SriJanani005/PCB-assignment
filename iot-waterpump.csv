@@ -1,0 +1,7 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"J1","1","Conn_01x02","","","","Connector_Pin:Pin_D0.7mm_L6.5mm_W1.8mm_FlatFork","~"
+"K1","1","Relay_SPDT","","","","Relay_THT:Relay_1-Form-A_Schrack-RYII_RM5mm","~"
+"M1","1","Motor_DC","","","","Motors:Vybronics_VZ30C1T8219732L","~"
+"R2,R3","2","R","","","","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical","~"
+"U1","1","ESP32-C3-WROOM-02","","","","RF_Module:ESP32-C3-DevKitM-1","https://www.espressif.com/sites/default/files/documentation/esp32-c3-wroom-02_datasheet_en.pdf"
+"U2","1","HC-SR04","","","","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical",""
